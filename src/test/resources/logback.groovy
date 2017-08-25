@@ -1,4 +1,4 @@
-root(DEBUG)
-logger("org.joshpeters", DEBUG)
-logger("net.serenitybdd", DEBUG)
-logger("net.thucydides", DEBUG)
+root(INFO)
+//logger("org.joshpeters", INFO)
+//logger("net.serenitybdd", INFO)
+//logger("net.thucydides", INFO)

@@ -97,6 +97,7 @@
                     </includes>
                     <systemProperties>
                         <webdriver.driver>${webdriver.driver}</webdriver.driver>
+                        <selenide.browser>org.joshpeters.learning.integration.ProvidePhantomJsToSelenide</selenide.browser>
                     </systemProperties>
                 </configuration>
                 <executions>

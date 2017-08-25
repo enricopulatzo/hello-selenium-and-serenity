@@ -1,4 +1,4 @@
-appNs = appNs || {};
+var appNs = appNs || {};
 
 (function ($, app) {
   app.homepage = app.homepage || {};

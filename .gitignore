@@ -140,3 +140,5 @@ buildNumber.properties
 
 # End of https://www.gitignore.io/api/osx,git,java,macos,maven,java-web,intellij+all
 
+### Selenide ###
+build
